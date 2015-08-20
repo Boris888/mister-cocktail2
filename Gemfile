@@ -48,3 +48,4 @@ gem 'rspec-rails', group: [ :test ]
 # ruby '2.2.0'
 gem 'rails_12factor', group: :production
 gem 'puma',           group: :production
+gem 'rspec-rails', group: [ :test ]
